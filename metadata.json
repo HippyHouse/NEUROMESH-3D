@@ -1,0 +1,5 @@
+{
+  "name": "NeuroMesh 3D Architect",
+  "description": "Analyzes 2D character images and generates Blender (Python) scripts to automate the creation of 3D block-outs and FBX exports.",
+  "requestFramePermissions": []
+}
